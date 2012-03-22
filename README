@@ -1,4 +1,7 @@
 to reproduce:
 
+rvm install rbx
+rvm use rbx
+bundle install
 bundle exec rbx problem.rb
 
