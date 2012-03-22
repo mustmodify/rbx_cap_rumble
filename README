@@ -1,0 +1,4 @@
+to reproduce:
+
+bundle exec rbx problem.rb
+
